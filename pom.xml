@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.eng</groupId>
+    <artifactId>DesignPattern</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>ObjectOriented</module>
+        <module>CreationalPatterns</module>
+        <module>BehavioralPatterns</module>
+        <module>StructuralPatterns</module>
+        <module>FunctionalPatterns</module>
+        <module>ReactivePatterns</module>
+        <module>LetsReactivePractices</module>
+        <module>BestPractices</module>
+        <module>TrendsArchitectures</module>
+    </modules>
+
+    <packaging>pom</packaging>
+
+    <name>DesignPattern</name>
+    <description>parent-project</description>
+    <url>http://maven.apache.org</url>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.target>11</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+    </properties>
+
+</project>
