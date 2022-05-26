@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BehavioralPatterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralPatterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BestPractices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BestPractices/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CreationalPatterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CreationalPatterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FunctionalPatterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FunctionalPatterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LetsReactivePractices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LetsReactivePractices/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ObjectOriented/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ObjectOriented/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ReactivePatterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ReactivePatterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StructuralPatterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StructuralPatterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TrendsArchitectures/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TrendsArchitectures/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
