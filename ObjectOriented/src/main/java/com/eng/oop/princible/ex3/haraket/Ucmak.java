@@ -1,13 +1,12 @@
-package com.eng.oop.princible.ex2.haraket;
+package com.eng.oop.princible.ex3.haraket;
 
-
-import com.eng.oop.princible.ex2.interfaces.HaraketSekli;
+import com.eng.oop.princible.ex3.interfaces.HaraketSekli;
 
 /**
  * Created by servicium on 12.06.2015.
  */
 public class Ucmak implements HaraketSekli {
-    public void haraketEt() {
+    public void haraket() {
         System.out.println("Ucuyor");
     }
 }

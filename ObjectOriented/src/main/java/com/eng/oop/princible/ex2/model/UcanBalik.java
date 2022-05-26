@@ -1,6 +1,6 @@
 package com.eng.oop.princible.ex2.model;
 
-import com.eng.oop.princible.ex2.interfaces.Ortam;
+import com.eng.oop.princible.ex3.haraket.Ucmak;
 
 /**
  * Created by servicium on 12.06.2015.
@@ -15,8 +15,14 @@ public class UcanBalik extends Balik {
         this.uc = uc;
     }
 
+    //OCP ve DIP problemleri Devam ediyor!
     @Override
-    public void hareketEt(Ortam ortam) {
-        ortam.getHareketSekli().haraket();
+    public void hareketEt() {
+        if (uc){
+            new Ucmak().haraketEt();
+        }else {
+            super.hareketEt();
+        }
+
     }
 }
