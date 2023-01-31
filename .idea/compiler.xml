@@ -9,6 +9,7 @@
         <module name="CreationalPatterns" />
         <module name="FunctionalPatterns" />
         <module name="LetsReactivePractices" />
+        <module name="Throattling" />
         <module name="ReactivePatterns" />
         <module name="ObjectOriented" />
         <module name="TrendsArchitectures" />

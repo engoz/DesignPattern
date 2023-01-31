@@ -16,6 +16,7 @@
         <module>LetsReactivePractices</module>
         <module>BestPractices</module>
         <module>TrendsArchitectures</module>
+        <module>Throattling</module>
     </modules>
 
     <packaging>pom</packaging>
